@@ -7,6 +7,7 @@
     - Fast RCNN
     - Faster RCNN (not done yet)
     - YOLO
+- Implemented simple GAN with FC layers
 
 ## Work in Progress
 
