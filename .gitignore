@@ -1,5 +1,8 @@
 dataset/
 ijcai_2025_kilns/
+models/
+runs/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
