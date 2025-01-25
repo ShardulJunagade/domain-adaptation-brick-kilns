@@ -2,6 +2,7 @@ dataset/
 ijcai_2025_kilns/
 models/
 runs/
+RHINO/
 
 
 # Byte-compiled / optimized / DLL files
